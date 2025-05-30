@@ -3,8 +3,8 @@
 using namespace std;
 
 class Solution {
-    public:
-        long long countFairPairs(vector<int>& nums, int lower, int upper) {
-            
-        }
-    };
+  public:
+    long long countFairPairs(vector<int> &nums, int lower, int upper) {
+        return 0;
+    }
+};
